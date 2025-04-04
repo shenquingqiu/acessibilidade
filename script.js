@@ -24,4 +24,3 @@ const opcoesDeAcessibilidade = document.getElementById('opcoes-acessibilidade')
     });
 
 });
-
